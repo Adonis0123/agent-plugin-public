@@ -20,5 +20,13 @@
     "test-driven-development",
     "commit",
     "decision-first-technical-writing"
+  ],
+  "vendor": [
+    "shuorenhua",
+    "systematic-debugging",
+    "verification-before-completion",
+    "test-driven-development",
+    "commit",
+    "decision-first-technical-writing"
   ]
 }

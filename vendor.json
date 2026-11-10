@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "shuorenhua": {
+      "source": "MrGeDiao/shuorenhua",
+      "sourceUrl": "https://github.com/MrGeDiao/shuorenhua.git",
+      "skillPath": "skills/shuorenhua/SKILL.md",
+      "upstreamTree": "c7df943e15eae8ee98e673bb08499c3747f9085d",
+      "localTree": "c7df943e15eae8ee98e673bb08499c3747f9085d",
+      "modified": false,
+      "license": "skills/shuorenhua/UPSTREAM-LICENSE"
+    },
+    "systematic-debugging": {
+      "source": "obra/superpowers",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/systematic-debugging/SKILL.md",
+      "upstreamTree": "774f23e27e35cb0a89ede39156e7b079fbb84190",
+      "localTree": "b506c36692e5699c715711ead904311c6c6d6ffe",
+      "modified": true,
+      "license": "skills/systematic-debugging/UPSTREAM-LICENSE"
+    },
+    "verification-before-completion": {
+      "source": "obra/superpowers",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/verification-before-completion/SKILL.md",
+      "upstreamTree": "a4cb0b69aaefeab540947a7f1642bdaad810e37a",
+      "localTree": "074ca52c2df1e0a5ff9d1fa9808f9a1290e15267",
+      "modified": true,
+      "license": "skills/verification-before-completion/UPSTREAM-LICENSE"
+    },
+    "test-driven-development": {
+      "source": "obra/superpowers",
+      "sourceUrl": "https://github.com/obra/superpowers.git",
+      "skillPath": "skills/test-driven-development/SKILL.md",
+      "upstreamTree": "847144cf0824095922c0d4875648b9fa74877e1a",
+      "localTree": "847144cf0824095922c0d4875648b9fa74877e1a",
+      "modified": false,
+      "license": "skills/test-driven-development/UPSTREAM-LICENSE"
+    },
+    "commit": {
+      "source": "adonis0123/adonis-skills",
+      "sourceUrl": "https://github.com/adonis0123/adonis-skills.git",
+      "skillPath": "skills/commit/SKILL.md",
+      "upstreamTree": "81c62bbe44095bd8f21d077ab19e314894251914",
+      "localTree": "81c62bbe44095bd8f21d077ab19e314894251914",
+      "modified": false,
+      "license": "skills/commit/UPSTREAM-LICENSE"
+    },
+    "decision-first-technical-writing": {
+      "source": "adonis0123/adonis-skills",
+      "sourceUrl": "https://github.com/adonis0123/adonis-skills.git",
+      "skillPath": "skills/decision-first-technical-writing/SKILL.md",
+      "upstreamTree": "13191ca9a0528f1cc3de98691b718fc2de299dfb",
+      "localTree": "13191ca9a0528f1cc3de98691b718fc2de299dfb",
+      "modified": false,
+      "license": "skills/decision-first-technical-writing/UPSTREAM-LICENSE"
+    }
+  }
+}
