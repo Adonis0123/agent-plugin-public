@@ -1,0 +1,14 @@
+{
+  "name": "adonis-public",
+  "version": "0.1.0",
+  "private": true,
+  "description": "公开的协作规则和通用技能（agent-env 生成）",
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}

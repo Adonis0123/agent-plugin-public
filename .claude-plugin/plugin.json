@@ -1,0 +1,8 @@
+{
+  "name": "adonis-public",
+  "version": "0.1.0",
+  "description": "公开的协作规则和通用技能（agent-env 生成）",
+  "author": {
+    "name": "Adonis0123"
+  }
+}

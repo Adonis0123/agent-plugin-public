@@ -1,0 +1,15 @@
+{
+  "name": "adonis-public",
+  "owner": {
+    "name": "Adonis0123"
+  },
+  "description": "公开的协作规则和通用技能（agent-env 生成）",
+  "plugins": [
+    {
+      "name": "adonis-public",
+      "source": "./",
+      "description": "公开的协作规则和通用技能（agent-env 生成）",
+      "version": "0.1.0"
+    }
+  ]
+}

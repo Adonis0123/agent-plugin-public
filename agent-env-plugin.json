@@ -1,0 +1,24 @@
+{
+  "name": "adonis-public",
+  "version": "0.1.0",
+  "visibility": "public",
+  "visibility_zh": "公开",
+  "description": "公开的协作规则和通用技能（agent-env 生成）",
+  "env": [],
+  "sections": [
+    "__preamble__",
+    "Communication",
+    "Safety and authority",
+    "Work and decisions",
+    "Compact instructions"
+  ],
+  "skills": [],
+  "skill_sources": [
+    "shuorenhua",
+    "systematic-debugging",
+    "verification-before-completion",
+    "test-driven-development",
+    "commit",
+    "decision-first-technical-writing"
+  ]
+}
