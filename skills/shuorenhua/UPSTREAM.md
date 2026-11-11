@@ -7,7 +7,7 @@ generated; keep both with the folder when you copy it.
 - Source: MrGeDiao/shuorenhua
 - URL: https://github.com/MrGeDiao/shuorenhua.git
 - Path: skills/shuorenhua
-- Upstream tree: c7df943e15eae8ee98e673bb08499c3747f9085d (git tree of the folder when it was installed)
-- Local tree: c7df943e15eae8ee98e673bb08499c3747f9085d
+- Upstream tree: 60684ac0e01405a962fed8aa542ba737a5f93a5b (git tree of the folder when it was installed)
+- Local tree: 60684ac0e01405a962fed8aa542ba737a5f93a5b
 - Modified locally: no
 - License: UPSTREAM-LICENSE (the upstream repository's license text, unchanged)
