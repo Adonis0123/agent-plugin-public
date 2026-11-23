@@ -5,8 +5,8 @@
       "source": "MrGeDiao/shuorenhua",
       "sourceUrl": "https://github.com/MrGeDiao/shuorenhua.git",
       "skillPath": "skills/shuorenhua/SKILL.md",
-      "upstreamTree": "60684ac0e01405a962fed8aa542ba737a5f93a5b",
-      "localTree": "60684ac0e01405a962fed8aa542ba737a5f93a5b",
+      "upstreamTree": "16827b2804f7574fb9c2088eb1afcf69d921152d",
+      "localTree": "16827b2804f7574fb9c2088eb1afcf69d921152d",
       "modified": false,
       "license": "skills/shuorenhua/UPSTREAM-LICENSE"
     },
@@ -45,15 +45,6 @@
       "localTree": "81c62bbe44095bd8f21d077ab19e314894251914",
       "modified": false,
       "license": "skills/commit/UPSTREAM-LICENSE"
-    },
-    "decision-first-technical-writing": {
-      "source": "adonis0123/adonis-skills",
-      "sourceUrl": "https://github.com/adonis0123/adonis-skills.git",
-      "skillPath": "skills/decision-first-technical-writing/SKILL.md",
-      "upstreamTree": "13191ca9a0528f1cc3de98691b718fc2de299dfb",
-      "localTree": "13191ca9a0528f1cc3de98691b718fc2de299dfb",
-      "modified": false,
-      "license": "skills/decision-first-technical-writing/UPSTREAM-LICENSE"
     }
   }
 }
